@@ -4,7 +4,7 @@ data class AnimeDto(
     val data: List<AnimeDtoItem>,
 //    val links: Links,
 //    val meta: Meta,
-    val pagination: Pagination
+//    val pagination: Pagination
 )
 
 data class AnimeDetailsDto(

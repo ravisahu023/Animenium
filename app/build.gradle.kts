@@ -84,6 +84,7 @@ dependencies {
     // Coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
+    //youtube player
     implementation ("com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0")
 
 }
